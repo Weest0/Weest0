@@ -1,7 +1,5 @@
 ### Olá, Meu nome Wesley.
 
-- 🔭 Atualmente não estou trabalhando em nada.
-- 🌱 Estou estudando a maior parte das linguagens de programação.
 
 <div align="center">
   <a href="https://github.com/weest0">
