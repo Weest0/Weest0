@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a) ao meu perfil do Github!
 
-Meu nome é Wesley Gonçalves e sou estudante de Análise e Desenvolvimento de Sistemas no IFNMG - Instituto Federal do Norte de Minas Gerais. Tenho 20 anos e adoro aprender sobre tecnologia e programação.
+Meu nome é Wesley Gonçalves e sou estudante de Análise e Desenvolvimento de Sistemas no IFNMG - Instituto Federal do Norte de Minas Gerais. Tenho 21 anos e adoro aprender sobre tecnologia e programação.
 
 Embora eu ainda não esteja trabalhando na área, estou sempre buscando me aprimorar e desenvolver minhas habilidades em programação. Aqui no Github, você poderá encontrar alguns dos projetos que desenvolvi durante meus estudos e tempo livre.
 
